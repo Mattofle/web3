@@ -16,7 +16,7 @@ function App() {
       </div>
       <h1>Vite + React</h1>
       <div className="card">
-        <ClickCounter title="TRY"/>
+        <ClickCounter title="TRY" hoverMessage="Bien vu"/>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
